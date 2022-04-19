@@ -1,7 +1,5 @@
 # Time-Series-with-ARIMA
-Time Series forecasting using Seasonal ARIMA. Applied statistical tests like Augmented Dickey–Fuller test to check stationary of series. Checked ACF ,PACF plots. Transformed series to make it stationary
-
-##Time Series with ARIMA models.
+## Time Series forecasting using Seasonal ARIMA. Applied statistical tests like Augmented Dickey–Fuller test to check stationary of series. Checked ACF ,PACF plots. Transformed series to make it stationary
 
 Includes yfinance, exploratory analysis, stationarity test,ARIMA model hyper parameter tuning and residual analysis.
 
